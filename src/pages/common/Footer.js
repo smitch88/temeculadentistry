@@ -172,6 +172,13 @@ const Footer = () => {
         vertical
       >
         <Container textAlign="center">
+          <Image
+            src={WhiteLogo}
+            size="small"
+            centered
+            alt="Temecula Valley Dentistry"
+          />
+          <Divider inverted section />
           <Grid columns={3} divided stackable inverted>
             <Grid.Row>
               <Grid.Column>
@@ -213,19 +220,15 @@ const Footer = () => {
             </Grid.Row>
           </Grid>
           <Divider inverted section />
-          <Image src={WhiteLogo} size="small" centered alt="logo here" />
+          <p>
+            Copyright © 2019 Temecula Valley Dentistry. All rights reserved.
+          </p>
           <List horizontal inverted divided link size="small">
-            <List.Item as={Link} to="/site-map">
+            <List.Item as="a" href={`${process.env.PUBLIC_URL}/sitemap.xml`}>
               Site Map
             </List.Item>
             <List.Item as={Link} to="/contact">
               Contact Us
-            </List.Item>
-            <List.Item as={Link} to="/terms-and-conditions">
-              Terms and Conditions
-            </List.Item>
-            <List.Item as={Link} to="/privacy-policy">
-              Privacy Policy
             </List.Item>
           </List>
         </Container>
