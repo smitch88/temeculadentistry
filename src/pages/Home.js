@@ -199,7 +199,7 @@ const Home = () => (
           style={{ color: "white" }}
           target="_blank"
           rel="noopener noreferrer"
-          href="https://www.google.com/maps/dir/39.1443006,-76.6619475/27315+Jefferson+Ave+STE+G2,+Temecula,+CA+92590/@36.2495326,-115.1266038,4z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x80db7e23edb56767:0xe61832ef47773847!2m2!1d-117.1664536!2d33.5211159!3e0"
+          href="https://www.google.com/maps/dir//27315+Jefferson+Ave+STE+G2,+Temecula,+CA+92590/@33.5211109,-117.2015588,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x80db7e23edb56767:0xe61832ef47773847!2m2!1d-117.1664536!2d33.5211159!3e0"
         >
           27315 Jefferson Avenue Suite G2 Temecula, CA 92590
         </a>
