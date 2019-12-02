@@ -41,7 +41,7 @@ const ContactUs = () => (
           >
             Phone
           </Header>
-          <p>+95 1 296 9661</p>
+          <p>(951) 296 9661</p>
           <Header
             as="h2"
             style={{

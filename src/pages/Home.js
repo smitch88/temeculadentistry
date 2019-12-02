@@ -317,7 +317,7 @@ const Home = () => (
               </p>
               <p>
                 Call us today to schedule an appointment or consultation at{" "}
-                <strong>+95 1 296 9661</strong>
+                <strong>(951) 296 9661</strong>
               </p>
             </Container>
           </div>

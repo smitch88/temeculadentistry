@@ -56,7 +56,7 @@ const Services = () => (
             </List>
             <br />
             <p style={{ textAlign: "left", lineHeight: "28px" }}>
-              Call us today at <strong>+95 1 296 9661</strong> to schedule your
+              Call us today at <strong>(951) 296 9661</strong> to schedule your
               appointment to improve your smile.
             </p>
           </Grid.Column>
@@ -114,7 +114,7 @@ const Services = () => (
             </List>
             <br />
             <p style={{ textAlign: "left", lineHeight: "28px" }}>
-              Call us today at <strong>+95 1 296 9661</strong> to schedule your
+              Call us today at <strong>(951) 296 9661</strong> to schedule your
               appointment to improve your smile.
             </p>
           </Grid.Column>

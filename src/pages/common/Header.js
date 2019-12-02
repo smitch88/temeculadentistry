@@ -95,7 +95,7 @@ const Header = () => {
                 className="phone icon"
                 style={{ color: "inherit", margin: "-2px 7px 0 0" }}
               />
-              +95 1 296 9661
+              (951) 296 9661
             </Menu.Item>
           </Grid.Column>
         </Grid.Row>
